@@ -2,7 +2,7 @@
 
 ## Description
 
-Developed an intelligent chess Engine that can one can play against.
+Developed an intelligent chess Engine that one can play against.
 
 ## Features
 ### 1) Artificial Intelligence:
